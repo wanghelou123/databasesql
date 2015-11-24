@@ -1,0 +1,6 @@
+1、  \df 显示所有函数
+2、	\i show_func.sql 显示所有函数
+3、	\i trigger_info  显示触发器,及所作用的表
+3、	\i trigger  显示触发器名字
+4、 \i show_proc.sql 显示存储过程内容
+5	\i show_systables.sql显示所有用户表，系统表
